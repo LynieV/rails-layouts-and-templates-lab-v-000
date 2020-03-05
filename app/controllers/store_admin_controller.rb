@@ -1,4 +1,4 @@
-class StoreAdminController < ApplicationController::Base
+class StoreAdminController < ApplicationController
 
   layout "admin"
 
