@@ -5,4 +5,7 @@ class StoreAdminController < ApplicationController::Base
   def home
   end
 
+  def orders
+  end
+
 end
